@@ -8,7 +8,7 @@ That's why I make this simple progressive web application. It allows you to send
 ## Demo
 - [LazySend.com](https://lazysend.com)
 
-[![Screen Capture](static/img/screenshot.png)](https://lazysend.com)
+[![Screen Capture](static/img/screenshot.png)](https://lazysend.com) [![Greenkeeper badge](https://badges.greenkeeper.io/andrewmmc/lazysend.com.svg)](https://greenkeeper.io/)
 
 ## Usage
 It is a progressive web application. Just directly add it to your home screen if you have an Android device.
