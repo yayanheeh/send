@@ -72,7 +72,7 @@
     "sass-loader": "^6.0.6",
     "selenium-server": "^3.8.1",
     "semver": "^5.5.0",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.5",
     "sinon": "^4.1.6",
     "sinon-chai": "^2.14.0",
     "sw-precache-webpack-plugin": "^0.11.4",
